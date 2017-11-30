@@ -32,3 +32,6 @@ hs_err_pid*
 /.recommenders/
 /RemoteSystemsTempFiles/
 /Servers/
+
+out/
+**/.idea/**/*.*
